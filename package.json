@@ -1,0 +1,13 @@
+{
+  "name": "edi-guide-generator",
+  "version": "1.0.0",
+  "description": "A web service to generate an EDI training guide",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "docx": "^8.5.0"
+  }
+}
